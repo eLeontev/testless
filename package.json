@@ -1,0 +1,19 @@
+{
+  "name": "testless",
+  "version": "0.0.1",
+  "description": "beta testless",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eLeontev/testless.git"
+  },
+  "author": "eLeontev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eLeontev/testless/issues"
+  },
+  "homepage": "https://github.com/eLeontev/testless#readme"
+}
